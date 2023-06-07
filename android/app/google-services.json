@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "502624395165",
+    "project_id": "jasik-iot",
+    "storage_bucket": "jasik-iot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502624395165:android:f14b4a039f6967e2e49974",
+        "android_client_info": {
+          "package_name": "com.rnmqttdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502624395165-sorlqlm3mlcok5il2uoiag73mjilmi68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcCFDiGrTUD7VhC-tAJFvvxzGyUSNMNRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502624395165-sorlqlm3mlcok5il2uoiag73mjilmi68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
